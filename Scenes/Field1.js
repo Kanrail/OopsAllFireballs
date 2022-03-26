@@ -1,19 +1,22 @@
+/** @type {Phaser.Scene} */
 class Field1 extends Phaser.Scene{
     constructor(){
         super("Field1");
         this.player = null;
-        this.background = null;
+        this.playfield = null;
     }
     preload(){
-        this.load.image('background','Assets/Environment/PlayField.png');
+        this.load.image('playfield','Assets/Environment/PlayField.png');
         this.load.image('player','Assets/Player/Player_Idle_1.png')
     }
 
     create(){
-        this.background = this.add.image(this.cameras.main.width/2,this.cameras.main.height/2,'background');
+        this.playfield = this.add.image(this.cameras.main.width/2,this.cameras.main.height/2,'playfield');
 
+        //Player movement
         this.player = this.physics.add.sprite(400,300,'player');
-        
+        this.player.setScale(.5);
+
         this.input.keyboard.on('keydown-W',()=>{
             this.player.setVelocityY(-60);
         })
@@ -37,6 +40,13 @@ class Field1 extends Phaser.Scene{
         })
         this.input.keyboard.on('keyup-D',()=>{
             this.player.setVelocityX(0);
+        })
+
+        //Player Attack
+        this.input.on('pointerdown', (pointer)=>{
+            var touchX = pointer.x;
+            var touchY = pointer.y;
+            var explosion = this.add.circle(touchX,touchY,80,0xFF0000);
         })
     }
 
