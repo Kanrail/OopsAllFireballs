@@ -1,0 +1,566 @@
+{
+	"textures": [
+		{
+			"image": "Player_SpriteSheet_1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 276,
+				"h": 484
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Player_Hurt_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 19,
+						"w": 72,
+						"h": 81
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 72,
+						"h": 81
+					}
+				},
+				{
+					"filename": "Player_Hurt_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 21,
+						"w": 70,
+						"h": 79
+					},
+					"frame": {
+						"x": 1,
+						"y": 84,
+						"w": 70,
+						"h": 79
+					}
+				},
+				{
+					"filename": "Player_Hurt_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 21,
+						"w": 70,
+						"h": 79
+					},
+					"frame": {
+						"x": 1,
+						"y": 165,
+						"w": 70,
+						"h": 79
+					}
+				},
+				{
+					"filename": "Player_Hurt_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 21,
+						"w": 69,
+						"h": 79
+					},
+					"frame": {
+						"x": 1,
+						"y": 246,
+						"w": 69,
+						"h": 79
+					}
+				},
+				{
+					"filename": "Player_FireBall_E_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 25,
+						"w": 72,
+						"h": 75
+					},
+					"frame": {
+						"x": 1,
+						"y": 327,
+						"w": 72,
+						"h": 75
+					}
+				},
+				{
+					"filename": "Player_FireBall_W_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 25,
+						"w": 72,
+						"h": 75
+					},
+					"frame": {
+						"x": 72,
+						"y": 246,
+						"w": 72,
+						"h": 75
+					}
+				},
+				{
+					"filename": "Player_Idle_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 21,
+						"w": 67,
+						"h": 79
+					},
+					"frame": {
+						"x": 1,
+						"y": 404,
+						"w": 67,
+						"h": 79
+					}
+				},
+				{
+					"filename": "Player_North_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 21,
+						"w": 67,
+						"h": 79
+					},
+					"frame": {
+						"x": 70,
+						"y": 404,
+						"w": 67,
+						"h": 79
+					}
+				},
+				{
+					"filename": "Player_North_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 21,
+						"w": 67,
+						"h": 79
+					},
+					"frame": {
+						"x": 70,
+						"y": 404,
+						"w": 67,
+						"h": 79
+					}
+				},
+				{
+					"filename": "Player_FireBall_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 22,
+						"w": 67,
+						"h": 78
+					},
+					"frame": {
+						"x": 75,
+						"y": 323,
+						"w": 67,
+						"h": 78
+					}
+				},
+				{
+					"filename": "Player_Idle_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 22,
+						"w": 67,
+						"h": 78
+					},
+					"frame": {
+						"x": 75,
+						"y": 323,
+						"w": 67,
+						"h": 78
+					}
+				},
+				{
+					"filename": "Player_Idle_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 22,
+						"w": 67,
+						"h": 78
+					},
+					"frame": {
+						"x": 139,
+						"y": 403,
+						"w": 67,
+						"h": 78
+					}
+				},
+				{
+					"filename": "Player_North_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 22,
+						"w": 67,
+						"h": 78
+					},
+					"frame": {
+						"x": 144,
+						"y": 323,
+						"w": 67,
+						"h": 78
+					}
+				},
+				{
+					"filename": "Player_North_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 23,
+						"w": 67,
+						"h": 77
+					},
+					"frame": {
+						"x": 208,
+						"y": 403,
+						"w": 67,
+						"h": 77
+					}
+				},
+				{
+					"filename": "Player_East_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 20,
+						"w": 63,
+						"h": 80
+					},
+					"frame": {
+						"x": 73,
+						"y": 84,
+						"w": 63,
+						"h": 80
+					}
+				},
+				{
+					"filename": "Player_East_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 22,
+						"w": 63,
+						"h": 78
+					},
+					"frame": {
+						"x": 73,
+						"y": 166,
+						"w": 63,
+						"h": 78
+					}
+				},
+				{
+					"filename": "Player_West_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 20,
+						"w": 63,
+						"h": 80
+					},
+					"frame": {
+						"x": 75,
+						"y": 1,
+						"w": 63,
+						"h": 80
+					}
+				},
+				{
+					"filename": "Player_East_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 21,
+						"w": 63,
+						"h": 79
+					},
+					"frame": {
+						"x": 138,
+						"y": 83,
+						"w": 63,
+						"h": 79
+					}
+				},
+				{
+					"filename": "Player_West_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 21,
+						"w": 63,
+						"h": 79
+					},
+					"frame": {
+						"x": 140,
+						"y": 1,
+						"w": 63,
+						"h": 79
+					}
+				},
+				{
+					"filename": "Player_East_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 22,
+						"w": 63,
+						"h": 78
+					},
+					"frame": {
+						"x": 138,
+						"y": 164,
+						"w": 63,
+						"h": 78
+					}
+				},
+				{
+					"filename": "Player_East_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 23,
+						"w": 63,
+						"h": 77
+					},
+					"frame": {
+						"x": 146,
+						"y": 244,
+						"w": 63,
+						"h": 77
+					}
+				},
+				{
+					"filename": "Player_West_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 22,
+						"w": 63,
+						"h": 78
+					},
+					"frame": {
+						"x": 203,
+						"y": 82,
+						"w": 63,
+						"h": 78
+					}
+				},
+				{
+					"filename": "Player_West_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 22,
+						"w": 63,
+						"h": 78
+					},
+					"frame": {
+						"x": 205,
+						"y": 1,
+						"w": 63,
+						"h": 78
+					}
+				},
+				{
+					"filename": "Player_West_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 23,
+						"w": 63,
+						"h": 77
+					},
+					"frame": {
+						"x": 203,
+						"y": 162,
+						"w": 63,
+						"h": 77
+					}
+				},
+				{
+					"filename": "Player_FireBall_E_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 26,
+						"w": 62,
+						"h": 74
+					},
+					"frame": {
+						"x": 211,
+						"y": 241,
+						"w": 62,
+						"h": 74
+					}
+				},
+				{
+					"filename": "Player_FireBall_W_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 26,
+						"w": 62,
+						"h": 74
+					},
+					"frame": {
+						"x": 213,
+						"y": 317,
+						"w": 62,
+						"h": 74
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b0ccabf626692f618b0bf00b9aeabb12:e8bde86f16208318d3194afab8643dcb:584740b21a4386070713bfa8eb74046f$"
+	}
+}

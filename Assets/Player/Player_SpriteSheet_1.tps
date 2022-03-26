@@ -136,7 +136,7 @@
             <key>json</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename></filename>
+                <filename>Player_SpriteSheet_1.json</filename>
             </struct>
         </map>
         <key>multiPack</key>

@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "FireBall_Attack.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 179,
+				"h": 99
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "FireBall_Attack_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 91,
+						"h": 46
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 91,
+						"h": 46
+					}
+				},
+				{
+					"filename": "FireBall_Attack_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 18,
+						"w": 84,
+						"h": 51
+					},
+					"frame": {
+						"x": 94,
+						"y": 1,
+						"w": 84,
+						"h": 51
+					}
+				},
+				{
+					"filename": "FireBall_Attack_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 24,
+						"w": 85,
+						"h": 46
+					},
+					"frame": {
+						"x": 1,
+						"y": 49,
+						"w": 85,
+						"h": 46
+					}
+				},
+				{
+					"filename": "FireBall_Attack_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 26,
+						"w": 85,
+						"h": 44
+					},
+					"frame": {
+						"x": 88,
+						"y": 54,
+						"w": 85,
+						"h": 44
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:10c6078ff9e0238a6221c1032891d7c6:cebead7e2dd2ee38d0593585931a97fd:1d58356149a2e7374b7ab92ea72bb31e$"
+	}
+}

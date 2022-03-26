@@ -136,7 +136,7 @@
             <key>json</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename></filename>
+                <filename>../../../../Users/gabri/Downloads/FireBall_Attack.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
