@@ -1,7 +1,7 @@
 {
 	"textures": [
 		{
-			"image": "FireBall_Attack.png",
+			"image": "Assets/Player/FireBall_Attack.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 179,
@@ -10,7 +10,7 @@
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "FireBall_Attack_1.png",
+					"filename": "Assets/Player/FireBall_Attack_1.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -31,7 +31,7 @@
 					}
 				},
 				{
-					"filename": "FireBall_Attack_4.png",
+					"filename": "Assets/Player/FireBall_Attack_4.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -52,7 +52,7 @@
 					}
 				},
 				{
-					"filename": "FireBall_Attack_2.png",
+					"filename": "Assets/Player/FireBall_Attack_2.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -73,7 +73,7 @@
 					}
 				},
 				{
-					"filename": "FireBall_Attack_3.png",
+					"filename": "Assets/Player/FireBall_Attack_3.png",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
