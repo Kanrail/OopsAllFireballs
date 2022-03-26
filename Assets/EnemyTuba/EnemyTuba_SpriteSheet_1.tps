@@ -136,7 +136,7 @@
             <key>json</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename></filename>
+                <filename>EnemyTuba_SpriteSheet_1.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -185,22 +185,22 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">drive-download-20220326T180041Z-001/EnemyTuba_East_1.png</key>
-            <key type="filename">drive-download-20220326T180041Z-001/EnemyTuba_East_2.png</key>
-            <key type="filename">drive-download-20220326T180041Z-001/EnemyTuba_East_3.png</key>
-            <key type="filename">drive-download-20220326T180041Z-001/EnemyTuba_East_4.png</key>
-            <key type="filename">drive-download-20220326T180041Z-001/EnemyTuba_East_5.png</key>
-            <key type="filename">drive-download-20220326T180041Z-001/EnemyTuba_East_6.png</key>
-            <key type="filename">drive-download-20220326T180041Z-001/EnemyTuba_East_7.png</key>
-            <key type="filename">drive-download-20220326T180041Z-001/EnemyTuba_East_8.png</key>
-            <key type="filename">drive-download-20220326T180041Z-001/EnemyTuba_West_1.png</key>
-            <key type="filename">drive-download-20220326T180041Z-001/EnemyTuba_West_2.png</key>
-            <key type="filename">drive-download-20220326T180041Z-001/EnemyTuba_West_3.png</key>
-            <key type="filename">drive-download-20220326T180041Z-001/EnemyTuba_West_4.png</key>
-            <key type="filename">drive-download-20220326T180041Z-001/EnemyTuba_West_5.png</key>
-            <key type="filename">drive-download-20220326T180041Z-001/EnemyTuba_West_6.png</key>
-            <key type="filename">drive-download-20220326T180041Z-001/EnemyTuba_West_7.png</key>
-            <key type="filename">drive-download-20220326T180041Z-001/EnemyTuba_West_8.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_East_1.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_East_2.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_East_3.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_East_4.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_East_5.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_East_6.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_East_7.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_East_8.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_West_1.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_West_2.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_West_3.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_West_4.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_West_5.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_West_6.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_West_7.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_West_8.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -218,22 +218,22 @@
         </map>
         <key>fileList</key>
         <array>
-            <filename>drive-download-20220326T180041Z-001/EnemyTuba_East_1.png</filename>
-            <filename>drive-download-20220326T180041Z-001/EnemyTuba_East_2.png</filename>
-            <filename>drive-download-20220326T180041Z-001/EnemyTuba_East_3.png</filename>
-            <filename>drive-download-20220326T180041Z-001/EnemyTuba_East_4.png</filename>
-            <filename>drive-download-20220326T180041Z-001/EnemyTuba_East_5.png</filename>
-            <filename>drive-download-20220326T180041Z-001/EnemyTuba_East_6.png</filename>
-            <filename>drive-download-20220326T180041Z-001/EnemyTuba_East_7.png</filename>
-            <filename>drive-download-20220326T180041Z-001/EnemyTuba_East_8.png</filename>
-            <filename>drive-download-20220326T180041Z-001/EnemyTuba_West_1.png</filename>
-            <filename>drive-download-20220326T180041Z-001/EnemyTuba_West_2.png</filename>
-            <filename>drive-download-20220326T180041Z-001/EnemyTuba_West_3.png</filename>
-            <filename>drive-download-20220326T180041Z-001/EnemyTuba_West_4.png</filename>
-            <filename>drive-download-20220326T180041Z-001/EnemyTuba_West_5.png</filename>
-            <filename>drive-download-20220326T180041Z-001/EnemyTuba_West_6.png</filename>
-            <filename>drive-download-20220326T180041Z-001/EnemyTuba_West_7.png</filename>
-            <filename>drive-download-20220326T180041Z-001/EnemyTuba_West_8.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_East_1.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_East_2.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_East_3.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_East_4.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_East_5.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_East_6.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_East_7.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_East_8.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_West_1.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_West_2.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_West_3.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_West_4.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_West_5.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_West_6.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_West_7.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T180041Z-001/EnemyTuba_West_8.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

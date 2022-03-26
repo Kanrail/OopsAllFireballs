@@ -136,7 +136,7 @@
             <key>json</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename></filename>
+                <filename>EnemySlime_SpriteSheet_1.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -185,10 +185,10 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">drive-download-20220326T165759Z-001/EnemySlime_1.png</key>
-            <key type="filename">drive-download-20220326T165759Z-001/EnemySlime_2.png</key>
-            <key type="filename">drive-download-20220326T165759Z-001/EnemySlime_3.png</key>
-            <key type="filename">drive-download-20220326T165759Z-001/EnemySlime_4.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T165759Z-001/EnemySlime_1.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T165759Z-001/EnemySlime_2.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T165759Z-001/EnemySlime_3.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/drive-download-20220326T165759Z-001/EnemySlime_4.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -206,10 +206,10 @@
         </map>
         <key>fileList</key>
         <array>
-            <filename>drive-download-20220326T165759Z-001/EnemySlime_1.png</filename>
-            <filename>drive-download-20220326T165759Z-001/EnemySlime_2.png</filename>
-            <filename>drive-download-20220326T165759Z-001/EnemySlime_3.png</filename>
-            <filename>drive-download-20220326T165759Z-001/EnemySlime_4.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T165759Z-001/EnemySlime_1.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T165759Z-001/EnemySlime_2.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T165759Z-001/EnemySlime_3.png</filename>
+            <filename>../../../../Users/gabri/Downloads/drive-download-20220326T165759Z-001/EnemySlime_4.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

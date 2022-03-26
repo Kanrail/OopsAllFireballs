@@ -1,0 +1,356 @@
+{
+	"textures": [
+		{
+			"image": "EnemyTuba_SpriteSheet_1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 978,
+				"h": 92
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "EnemyTuba_East_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 10,
+						"w": 54,
+						"h": 90
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 54,
+						"h": 90
+					}
+				},
+				{
+					"filename": "EnemyTuba_East_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 10,
+						"w": 54,
+						"h": 90
+					},
+					"frame": {
+						"x": 57,
+						"y": 1,
+						"w": 54,
+						"h": 90
+					}
+				},
+				{
+					"filename": "EnemyTuba_West_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 10,
+						"w": 54,
+						"h": 90
+					},
+					"frame": {
+						"x": 113,
+						"y": 1,
+						"w": 54,
+						"h": 90
+					}
+				},
+				{
+					"filename": "EnemyTuba_West_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 10,
+						"w": 54,
+						"h": 90
+					},
+					"frame": {
+						"x": 169,
+						"y": 1,
+						"w": 54,
+						"h": 90
+					}
+				},
+				{
+					"filename": "EnemyTuba_East_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 11,
+						"w": 55,
+						"h": 89
+					},
+					"frame": {
+						"x": 225,
+						"y": 1,
+						"w": 55,
+						"h": 89
+					}
+				},
+				{
+					"filename": "EnemyTuba_West_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 11,
+						"w": 55,
+						"h": 89
+					},
+					"frame": {
+						"x": 282,
+						"y": 1,
+						"w": 55,
+						"h": 89
+					}
+				},
+				{
+					"filename": "EnemyTuba_East_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 11,
+						"w": 54,
+						"h": 89
+					},
+					"frame": {
+						"x": 339,
+						"y": 1,
+						"w": 54,
+						"h": 89
+					}
+				},
+				{
+					"filename": "EnemyTuba_West_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 11,
+						"w": 54,
+						"h": 89
+					},
+					"frame": {
+						"x": 395,
+						"y": 1,
+						"w": 54,
+						"h": 89
+					}
+				},
+				{
+					"filename": "EnemyTuba_East_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 12,
+						"w": 62,
+						"h": 88
+					},
+					"frame": {
+						"x": 451,
+						"y": 1,
+						"w": 62,
+						"h": 88
+					}
+				},
+				{
+					"filename": "EnemyTuba_West_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 12,
+						"w": 62,
+						"h": 88
+					},
+					"frame": {
+						"x": 515,
+						"y": 1,
+						"w": 62,
+						"h": 88
+					}
+				},
+				{
+					"filename": "EnemyTuba_East_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 13,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 579,
+						"y": 1,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "EnemyTuba_West_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 13,
+						"w": 54,
+						"h": 87
+					},
+					"frame": {
+						"x": 635,
+						"y": 1,
+						"w": 54,
+						"h": 87
+					}
+				},
+				{
+					"filename": "EnemyTuba_East_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 15,
+						"w": 65,
+						"h": 85
+					},
+					"frame": {
+						"x": 691,
+						"y": 1,
+						"w": 65,
+						"h": 85
+					}
+				},
+				{
+					"filename": "EnemyTuba_West_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 15,
+						"w": 65,
+						"h": 85
+					},
+					"frame": {
+						"x": 758,
+						"y": 1,
+						"w": 65,
+						"h": 85
+					}
+				},
+				{
+					"filename": "EnemyTuba_East_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 16,
+						"w": 75,
+						"h": 84
+					},
+					"frame": {
+						"x": 825,
+						"y": 1,
+						"w": 75,
+						"h": 84
+					}
+				},
+				{
+					"filename": "EnemyTuba_West_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 16,
+						"w": 75,
+						"h": 84
+					},
+					"frame": {
+						"x": 902,
+						"y": 1,
+						"w": 75,
+						"h": 84
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ef735ecd26159c470e27d584b3b294d9:9d0f1715a1c1140d5a8ac30bd80586dc:dd091a27ccb811086d302e8635c626d4$"
+	}
+}

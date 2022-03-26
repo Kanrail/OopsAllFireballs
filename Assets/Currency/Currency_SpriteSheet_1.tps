@@ -136,7 +136,7 @@
             <key>json</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename></filename>
+                <filename>Currency_SpriteSheet_1.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -185,12 +185,12 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">Currency/Currency_1.png</key>
-            <key type="filename">Currency/Currency_2.png</key>
-            <key type="filename">Currency/Currency_3.png</key>
-            <key type="filename">Currency/Currency_4.png</key>
-            <key type="filename">Currency/Currency_5.png</key>
-            <key type="filename">Currency/Currency_6.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Currency/Currency_1.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Currency/Currency_2.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Currency/Currency_3.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Currency/Currency_4.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Currency/Currency_5.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Currency/Currency_6.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -208,12 +208,12 @@
         </map>
         <key>fileList</key>
         <array>
-            <filename>Currency/Currency_1.png</filename>
-            <filename>Currency/Currency_2.png</filename>
-            <filename>Currency/Currency_3.png</filename>
-            <filename>Currency/Currency_4.png</filename>
-            <filename>Currency/Currency_5.png</filename>
-            <filename>Currency/Currency_6.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Currency/Currency_1.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Currency/Currency_2.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Currency/Currency_3.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Currency/Currency_4.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Currency/Currency_5.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Currency/Currency_6.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
