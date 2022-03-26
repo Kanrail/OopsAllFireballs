@@ -32,7 +32,7 @@
         <key>dpi</key>
         <uint>72</uint>
         <key>dataFormat</key>
-        <string>phaser</string>
+        <string>css-simple</string>
         <key>textureFileName</key>
         <filename></filename>
         <key>flipPVR</key>
@@ -133,10 +133,10 @@
         </struct>
         <key>dataFileNames</key>
         <map type="GFileNameMap">
-            <key>json</key>
+            <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>Player_SpriteSheet_1.json</filename>
+                <filename>Player_SpriteSheet_1.css</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -173,7 +173,7 @@
             <key>trimMargin</key>
             <uint>1</uint>
             <key>trimMode</key>
-            <enum type="SpriteSettings::TrimMode">Trim</enum>
+            <enum type="SpriteSettings::TrimMode">None</enum>
             <key>tracerTolerance</key>
             <int>200</int>
             <key>heuristicMask</key>
