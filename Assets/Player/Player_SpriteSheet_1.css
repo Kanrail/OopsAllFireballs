@@ -1,0 +1,40 @@
+/* -----------------------------------------------------
+   created with https://www.codeandweb.com/texturepacker 
+   -----------------------------------------------------
+   $TexturePacker:SmartUpdate:89f41c1e9909f3078042f54c868f334e:e8bde86f16208318d3194afab8643dcb:c602435c5b64899cfe7c07af02363b19$
+   -----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(Player_SpriteSheet_1.png);}
+
+.Player_East_1 {width:100px; height:100px; background-position: -1px -1px}
+.Player_East_2 {width:100px; height:100px; background-position: -1px -103px}
+.Player_East_3 {width:100px; height:100px; background-position: -1px -205px}
+.Player_East_4 {width:100px; height:100px; background-position: -1px -307px}
+.Player_East_5 {width:100px; height:100px; background-position: -1px -409px}
+.Player_FireBall_1 {width:100px; height:100px; background-position: -103px -1px}
+.Player_FireBall_E_2 {width:100px; height:100px; background-position: -205px -1px}
+.Player_FireBall_E_3 {width:100px; height:100px; background-position: -307px -1px}
+.Player_FireBall_W_1 {width:100px; height:100px; background-position: -409px -1px}
+.Player_FireBall_W_2 {width:100px; height:100px; background-position: -103px -103px}
+.Player_Hurt_1 {width:100px; height:100px; background-position: -103px -205px}
+.Player_Hurt_2 {width:100px; height:100px; background-position: -103px -307px}
+.Player_Hurt_3 {width:100px; height:100px; background-position: -103px -409px}
+.Player_Hurt_4 {width:100px; height:100px; background-position: -205px -103px}
+.Player_Idle_1 {width:100px; height:100px; background-position: -307px -103px}
+.Player_Idle_2 {width:100px; height:100px; background-position: -103px -1px}
+.Player_Idle_3 {width:100px; height:100px; background-position: -409px -103px}
+.Player_North_1 {width:100px; height:100px; background-position: -205px -205px}
+.Player_North_2 {width:100px; height:100px; background-position: -205px -205px}
+.Player_North_3 {width:100px; height:100px; background-position: -205px -307px}
+.Player_North_4 {width:100px; height:100px; background-position: -205px -409px}
+.Player_West_1 {width:100px; height:100px; background-position: -307px -205px}
+.Player_West_2 {width:100px; height:100px; background-position: -409px -205px}
+.Player_West_3 {width:100px; height:100px; background-position: -307px -307px}
+.Player_West_4 {width:100px; height:100px; background-position: -307px -409px}
+.Player_West_5 {width:100px; height:100px; background-position: -409px -307px}
