@@ -185,32 +185,32 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">drive-download-20220326T163033Z-001/Player_East_1.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_East_2.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_East_3.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_East_4.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_East_5.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_FireBall_1.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_FireBall_E_2.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_FireBall_E_3.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_FireBall_W_1.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_FireBall_W_2.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_Idle_1.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_Idle_2.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_Idle_3.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_North_1.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_North_2.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_North_3.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_North_4.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_West_1.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_West_2.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_West_3.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_West_4.png</key>
-            <key type="filename">drive-download-20220326T163033Z-001/Player_West_5.png</key>
-            <key type="filename">drive-download-20220326T164150Z-001/Player_Hurt_1.png</key>
-            <key type="filename">drive-download-20220326T164150Z-001/Player_Hurt_2.png</key>
-            <key type="filename">drive-download-20220326T164150Z-001/Player_Hurt_3.png</key>
-            <key type="filename">drive-download-20220326T164150Z-001/Player_Hurt_4.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_East_1.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_East_2.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_East_3.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_East_4.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_East_5.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_FireBall_1.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_FireBall_E_2.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_FireBall_E_3.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_FireBall_W_1.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_FireBall_W_2.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_Hurt_1.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_Hurt_2.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_Hurt_3.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_Hurt_4.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_Idle_1.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_Idle_2.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_Idle_3.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_North_1.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_North_2.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_North_3.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_North_4.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_West_1.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_West_2.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_West_3.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_West_4.png</key>
+            <key type="filename">../../../../Users/gabri/Downloads/Player/Player_West_5.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -228,32 +228,32 @@
         </map>
         <key>fileList</key>
         <array>
-            <filename>drive-download-20220326T163033Z-001/Player_East_1.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_East_2.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_East_3.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_East_4.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_East_5.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_FireBall_1.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_FireBall_E_2.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_FireBall_E_3.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_FireBall_W_1.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_FireBall_W_2.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_Idle_1.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_Idle_2.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_Idle_3.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_North_1.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_North_2.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_North_3.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_North_4.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_West_1.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_West_2.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_West_3.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_West_4.png</filename>
-            <filename>drive-download-20220326T163033Z-001/Player_West_5.png</filename>
-            <filename>drive-download-20220326T164150Z-001/Player_Hurt_1.png</filename>
-            <filename>drive-download-20220326T164150Z-001/Player_Hurt_2.png</filename>
-            <filename>drive-download-20220326T164150Z-001/Player_Hurt_3.png</filename>
-            <filename>drive-download-20220326T164150Z-001/Player_Hurt_4.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_East_1.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_East_2.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_East_3.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_East_4.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_East_5.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_FireBall_1.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_FireBall_E_2.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_FireBall_E_3.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_FireBall_W_1.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_FireBall_W_2.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_Hurt_1.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_Hurt_2.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_Hurt_3.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_Hurt_4.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_Idle_1.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_Idle_2.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_Idle_3.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_North_1.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_North_2.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_North_3.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_North_4.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_West_1.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_West_2.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_West_3.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_West_4.png</filename>
+            <filename>../../../../Users/gabri/Downloads/Player/Player_West_5.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

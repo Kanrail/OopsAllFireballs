@@ -78,7 +78,7 @@
         <key>jpgQuality</key>
         <uint>80</uint>
         <key>pngOptimizationLevel</key>
-        <uint>0</uint>
+        <uint>1</uint>
         <key>webpQualityLevel</key>
         <uint>101</uint>
         <key>textureSubPath</key>
@@ -106,7 +106,7 @@
         <key>algorithmSettings</key>
         <struct type="AlgorithmSettings">
             <key>algorithm</key>
-            <enum type="AlgorithmSettings::AlgorithmId">Basic</enum>
+            <enum type="AlgorithmSettings::AlgorithmId">MaxRects</enum>
             <key>freeSizeMode</key>
             <enum type="AlgorithmSettings::AlgorithmFreeSizeMode">Best</enum>
             <key>sizeConstraints</key>
@@ -153,7 +153,7 @@
             <string></string>
         </struct>
         <key>autoAliasEnabled</key>
-        <false/>
+        <true/>
         <key>trimSpriteNames</key>
         <false/>
         <key>prependSmartFolderName</key>
@@ -167,13 +167,13 @@
             <key>scaleMode</key>
             <enum type="ScaleMode">Smooth</enum>
             <key>extrude</key>
-            <uint>0</uint>
+            <uint>1</uint>
             <key>trimThreshold</key>
             <uint>1</uint>
             <key>trimMargin</key>
             <uint>1</uint>
             <key>trimMode</key>
-            <enum type="SpriteSettings::TrimMode">None</enum>
+            <enum type="SpriteSettings::TrimMode">Trim</enum>
             <key>tracerTolerance</key>
             <int>200</int>
             <key>heuristicMask</key>
@@ -185,11 +185,18 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">Player-20220326T012950Z-001/Player/Player_East_1.png</key>
-            <key type="filename">Player-20220326T012950Z-001/Player/Player_East_2.png</key>
-            <key type="filename">Player-20220326T012950Z-001/Player/Player_East_3.png</key>
-            <key type="filename">Player-20220326T012950Z-001/Player/Player_East_4.png</key>
-            <key type="filename">Player-20220326T012950Z-001/Player/Player_East_5.png</key>
+            <key type="filename">Boss/Boss_Attack_1.png</key>
+            <key type="filename">Boss/Boss_Attack_2.png</key>
+            <key type="filename">Boss/Boss_Attack_3.png</key>
+            <key type="filename">Boss/Boss_Attack_4.png</key>
+            <key type="filename">Boss/Boss_BlinkAttack_1.png</key>
+            <key type="filename">Boss/Boss_BlinkAttack_2.png</key>
+            <key type="filename">Boss/Boss_BlinkAttack_3.png</key>
+            <key type="filename">Boss/Boss_BlinkAttack_4.png</key>
+            <key type="filename">Boss/Boss_Idle_1.png</key>
+            <key type="filename">Boss/Boss_Idle_2.png</key>
+            <key type="filename">Boss/Boss_Idle_3.png</key>
+            <key type="filename">Boss/Boss_Idle_4.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -207,11 +214,18 @@
         </map>
         <key>fileList</key>
         <array>
-            <filename>Player-20220326T012950Z-001/Player/Player_East_1.png</filename>
-            <filename>Player-20220326T012950Z-001/Player/Player_East_2.png</filename>
-            <filename>Player-20220326T012950Z-001/Player/Player_East_3.png</filename>
-            <filename>Player-20220326T012950Z-001/Player/Player_East_4.png</filename>
-            <filename>Player-20220326T012950Z-001/Player/Player_East_5.png</filename>
+            <filename>Boss/Boss_Attack_1.png</filename>
+            <filename>Boss/Boss_Attack_2.png</filename>
+            <filename>Boss/Boss_Attack_3.png</filename>
+            <filename>Boss/Boss_Attack_4.png</filename>
+            <filename>Boss/Boss_BlinkAttack_1.png</filename>
+            <filename>Boss/Boss_BlinkAttack_2.png</filename>
+            <filename>Boss/Boss_BlinkAttack_3.png</filename>
+            <filename>Boss/Boss_BlinkAttack_4.png</filename>
+            <filename>Boss/Boss_Idle_1.png</filename>
+            <filename>Boss/Boss_Idle_2.png</filename>
+            <filename>Boss/Boss_Idle_3.png</filename>
+            <filename>Boss/Boss_Idle_4.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
