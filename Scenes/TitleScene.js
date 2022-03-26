@@ -9,7 +9,14 @@ class TitleScene extends Phaser.Scene{
     this.load.image('startButton','Assets/StartButton.png');
   }
   create(){
+    this.background = this.add.image(this.cameras.main.width/2,this.cameras.main.height/2,'background');
 
+    this.startButton = this.add.image(320,280,'startButton');
+    this.startButton.setInteractive();
+    this.startButton.on('pointerdown',()=>{
+      game.scene.start('Field1');
+      game.scene.remove('TitleScene');
+    });
   }
   update(){
 
