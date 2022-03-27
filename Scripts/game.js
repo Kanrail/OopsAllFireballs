@@ -9,7 +9,10 @@ const config = {
 },
   parent:"html-holder",
   physics:{
-    default:'arcade'
+    default:'arcade',
+    arcade:{
+      debug:true
+    }
   }
 }
 
