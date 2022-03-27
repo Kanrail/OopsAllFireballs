@@ -6,7 +6,7 @@ class TitleScene extends Phaser.Scene{
 }
   preload(){
     this.load.image('background','Assets/OopsAllFireballs_Splash_Screen.png');
-    this.load.image('startButton','Assets/StartButton.png');
+    this.load.image('startButton','Assets/Fireball_Start_Button.png');
   }
   create(){
     this.background = this.add.image(this.cameras.main.width/2,this.cameras.main.height/2,'background');
@@ -14,14 +14,14 @@ class TitleScene extends Phaser.Scene{
     this.background.displayWidth = this.cameras.main.width;
     this.background.displayHeight = this.cameras.main.height;
 
-    this.startButton = this.add.image(400,300,'startButton');
+    this.startButton = this.add.image(400,300,'startButton').setScale(1.4);
     this.startButton.setInteractive();
     this.startButton.on('pointerdown',()=>{
-      game.scene.start('Field1');
+      game.scene.start('Animations');
       game.scene.remove('TitleScene');
     });
   }
   update(){
-
+    this.startButton.rotation += .03;
   }
 }

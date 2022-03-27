@@ -3,7 +3,9 @@ const config = {
   width:800,
   height:600,
   scene:[TitleScene,
-    Field1
+    Animations,
+    Field1,
+    DeathScreen
   ],dom: {
   createContainer: true
 },
@@ -17,4 +19,5 @@ const config = {
 }
 
 let game = new Phaser.Game(config);
+let playerDeath = null;
 
