@@ -19,6 +19,18 @@ class Animations extends Phaser.Scene{
             frameWidth: 100,
             frameHeight: 100
         });
+        this.load.spritesheet('tubaman','Assets/EnemyTuba/tubaman_spritesheet.png',{
+            frameWidth: 100,
+            frameHeight: 100
+        });
+        this.load.spritesheet('cube','Assets/EnemySlime/cube_spritesheet.png',{
+            frameWidth: 100,
+            frameHeight: 100
+        });
+        this.load.spritesheet('boss','Assets/Boss/boss_spritesheet.png',{
+            frameWidth: 100,
+            frameHeight: 100
+        });
     }
     create(){
         //Enemy Animations
@@ -44,6 +56,30 @@ class Animations extends Phaser.Scene{
             key:"smallSlime_right_hurt",
             frameRate: 10,
             frames:this.anims.generateFrameNumbers("smallSlime",{frames:[6,7,6]}),
+            repeat:-1
+        });
+        this.anims.create({
+            key:"cube_idle",
+            frameRate: 5,
+            frames:this.anims.generateFrameNumbers("cube",{frames:[0,1,2,3,2,1,0]}),
+            repeat:-1
+        });
+        this.anims.create({
+            key:"boss_idle",
+            frameRate: 5,
+            frames:this.anims.generateFrameNumbers("boss",{frames:[8,9,10,11,10,9,8]}),
+            repeat:-1
+        });
+        this.anims.create({
+            key:"boss_attack",
+            frameRate: 5,
+            frames:this.anims.generateFrameNumbers("boss",{frames:[0,1,2,3,2,1,0]}),
+            repeat:-1
+        });
+        this.anims.create({
+            key:"boss_blinkAttack",
+            frameRate: 5,
+            frames:this.anims.generateFrameNumbers("boss",{frames:[4,5,6,7,6,5,4]}),
             repeat:-1
         });
 
@@ -103,6 +139,14 @@ class Animations extends Phaser.Scene{
             key:"soul",
             frameRate: 10,
             frames:this.anims.generateFrameNumbers("currency",{start:0,end:5}),
+            repeat:-1
+        });
+
+        //Tubaman Animation
+        this.anims.create({
+            key:"tubaman_idle",
+            frameRate: 5,
+            frames:this.anims.generateFrameNumbers("tubaman",{frames:[0,1,3,4,5,4,12,11,12,4,3,1,0]}),
             repeat:-1
         });
 
